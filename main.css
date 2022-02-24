@@ -1,0 +1,18 @@
+.poppup {
+    width: 24.5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 28rem; 
+}
+
+.title-padding {
+    padding-top: 1rem;
+}
+
+.title-padding2 {
+    padding-top: 3.5rem;
+}
+
+.generalButton-color {
+    background-color: rgba(255, 255, 255, 0.342);
+}
